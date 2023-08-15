@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #e5d2f4;
+    /* margin: 10px; */
+}
+
+.color-container {
+    margin: 5px;
+    background-color: orange;
+    width: 300px;
+    height: 150px;
+    font-size: 50px;
+    color: white;
+    text-shadow: 4px 5px 4px rgba(0, 0, 0, 0.4);
+    border: 2px solid black;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
