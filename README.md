@@ -4,4 +4,4 @@
 ### https://random-color-generator-saroar-coding.netlify.app/
 
 
-<img src="https://raw.githubusercontent.com/Saroar-Islam/Random-Color-Generator/main/Random-Color-Generator.jpg?token=GHSAT0AAAAAACEH62YWUD767T67T7GKSSAGZG56IXA" >
+<img src="https://github.com/Saroar-Islam/Random-Color-Generator/blob/main/Random-Color-Generator.jpg?raw=true" >
